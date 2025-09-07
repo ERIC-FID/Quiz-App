@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(47, 182, 47);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    width: 80%;
+    height: 80vh;
+    border: 3px solid whitesmoke;
+    background-color: #fefefe;
+    box-shadow: 0 0 4rem rgb(78, 76, 76);
+    box-sizing: border-box;
+    padding: 1rem;
+}
+
+main .hero{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+main #answers{
+    width: 50%;
+    height: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+    padding: 1rem;
+    box-sizing: border-box;
+    
+    
+    
+}
+
+main #more {
+    margin-top: 4rem;
+    font-size: 1.5em;
+
+}
+main #holdbtn{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 2rem;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+main #answers #holdbtn button {
+    width: 20%;
+    padding: 0.3rem 0;
+    background-color: green;
+    color: white;
+    border: none;
+    font-weight: 200;
+    border-radius: 5px;
+}
+main #answers #holdbtn button:hover{
+    background-color:rgb(47, 182, 47);
+}
+
+main #score{
+    float: right;
+    margin-top: 25rem;
+    margin-right: 1rem;
+    width: 15%;
+    padding: 1rem 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    display: none;
+}
+
+main #score:hover{
+    background-color: rgb(47, 182, 47) ;
+}
+
+main #displayscore{
+    width: 40%;
+    height: 30vh;
+    border: none1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #fefefe;
+    border-radius: 5px;
+    padding: 2rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    visibility: hidden;
+}
+
+main #ok{
+    width: 100%;
+    background-color: green;
+    color: white;
+    padding: 1rem;
+    font-weight: bold;
+    border: none;
+}
+
+main #ok:hover{
+    background-color: rgb(47, 182, 47);
+}
+
+main #user{
+    font-size: 1.4em;
+}
+main #quiz{
+    color: green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+

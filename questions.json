@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": ["Lagos", "Abuja", "Kano", "Port Harcourt"],
+    "Opname": "q1",
+    "OpId": "one",
+    "answer": "Abuja"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "Opname": "q2",
+    "OpId": "two",
+    "answer": "Mars"
+  },
+  {
+    "question": "What is 15 + 27?",
+    "options": ["32", "42", "40", "45"],
+    "Opname": "q3",
+    "OpId": "three",
+    "answer": "42"
+  },
+  {
+    "question": "Who wrote 'Things Fall Apart'?",
+    "options": ["Wole Soyinka", "Chinua Achebe", "Ngugi wa Thiong’o", "Ken Saro-Wiwa"],
+    "Opname": "q4",
+    "OpId": "four",
+    "answer": "Chinua Achebe"
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "Opname": "q5",
+    "OpId": "five",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": ["7", "8", "9", "10"],
+    "Opname": "q6",
+    "OpId": "six",
+    "answer": "9"
+  },
+  {
+    "question": "Who is the first President of Nigeria?",
+    "options": ["Olusegun Obasanjo", "Nnamdi Azikiwe", "Yakubu Gowon", "Abubakar Tafawa Balewa"],
+    "Opname": "q7",
+    "OpId": "seven",
+    "answer": "Nnamdi Azikiwe"
+  },
+  {
+    "question": "Which of these is a vowel?",
+    "options": ["B", "E", "K", "M"],
+    "Opname": "q8",
+    "OpId": "eight",
+    "answer": "E"
+  },
+  {
+    "question": "What is 12 × 8?",
+    "options": ["80", "88", "96", "108"],
+    "Opname": "q9",
+    "OpId": "nine",
+    "answer": "96"
+  },
+  {
+    "question": "Which Nigerian city is known as 'Coal City'?",
+    "options": ["Enugu", "Kaduna", "Ibadan", "Jos"],
+    "Opname": "q10",
+    "OpId": "ten",
+    "answer": "Enugu"
+  },
+  {
+    "question": "Who is the current UN Secretary-General?",
+    "options": ["Kofi Annan", "Antonio Guterres", "Ban Ki-moon", "Boutros Boutros-Ghali"],
+    "Opname": "q11",
+    "OpId": "eleven",
+    "answer": "Antonio Guterres"
+  },
+  {
+    "question": "What is the synonym of 'Happy'?",
+    "options": ["Sad", "Joyful", "Angry", "Afraid"],
+    "Opname": "q12",
+    "OpId": "twelve",
+    "answer": "Joyful"
+  },
+  {
+    "question": "In which year did Nigeria gain independence?",
+    "options": ["1950", "1960", "1963", "1970"],
+    "Opname": "q13",
+    "OpId": "thirteen",
+    "answer": "1960"
+  },
+  {
+    "question": "What is 100 ÷ 25?",
+    "options": ["2", "3", "4", "5"],
+    "Opname": "q14",
+    "OpId": "fourteen",
+    "answer": "4"
+  },
+  {
+    "question": "What is the opposite of 'Tall'?",
+    "options": ["High", "Short", "Small", "Tiny"],
+    "Opname": "q15",
+    "OpId": "fifteen",
+    "answer": "Short"
+  },
+  {
+    "question": "Which arm of government interprets laws?",
+    "options": ["Executive", "Legislature", "Judiciary", "Military"],
+    "Opname": "q16",
+    "OpId": "sixteen",
+    "answer": "Judiciary"
+  },
+  {
+    "question": "What is 7 × 6?",
+    "options": ["36", "42", "48", "56"],
+    "Opname": "q17",
+    "OpId": "seventeen",
+    "answer": "42"
+  },
+  {
+    "question": "Who discovered electricity with a kite experiment?",
+    "options": ["Isaac Newton", "Benjamin Franklin", "Thomas Edison", "Michael Faraday"],
+    "Opname": "q18",
+    "OpId": "eighteen",
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "question": "What is the antonym of 'Brave'?",
+    "options": ["Courageous", "Fearful", "Strong", "Bold"],
+    "Opname": "q19",
+    "OpId": "nineteen",
+    "answer": "Fearful"
+  },
+  {
+    "question": "Which is the national currency of Nigeria?",
+    "options": ["Dollar", "Naira", "Pound", "Cedi"],
+    "Opname": "q20",
+    "OpId": "twenty",
+    "answer": "Naira"
+  },
+  {
+    "question": "Simplify: 5²",
+    "options": ["10", "20", "25", "30"],
+    "Opname": "q21",
+    "OpId": "twentyone",
+    "answer": "25"
+  },
+  {
+    "question": "Which continent is Nigeria located in?",
+    "options": ["Asia", "Europe", "Africa", "South America"],
+    "Opname": "q22",
+    "OpId": "twentytwo",
+    "answer": "Africa"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": ["Nikola Tesla", "Alexander Bell", "Thomas Edison", "James Watt"],
+    "Opname": "q23",
+    "OpId": "twentythree",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "What is the plural of 'Child'?",
+    "options": ["Childs", "Children", "Childes", "Childer"],
+    "Opname": "q24",
+    "OpId": "twentyfour",
+    "answer": "Children"
+  },
+  {
+    "question": "Which layer of government is closest to the people?",
+    "options": ["Federal", "State", "Local", "Regional"],
+    "Opname": "q25",
+    "OpId": "twentyfive",
+    "answer": "Local"
+  },
+  {
+    "question": "What is 144 ÷ 12?",
+    "options": ["10", "11", "12", "13"],
+    "Opname": "q26",
+    "OpId": "twentysix",
+    "answer": "12"
+  },
+  {
+    "question": "Who is the current President of Nigeria (2025)?",
+    "options": ["Muhammadu Buhari", "Bola Tinubu", "Goodluck Jonathan", "Atiku Abubakar"],
+    "Opname": "q27",
+    "OpId": "twentyseven",
+    "answer": "Bola Tinubu"
+  },
+  {
+    "question": "Which gas do humans inhale to survive?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "Opname": "q28",
+    "OpId": "twentyeight",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which word is opposite of 'Hot'?",
+    "options": ["Warm", "Boiling", "Cold", "Heat"],
+    "Opname": "q29",
+    "OpId": "twentynine",
+    "answer": "Cold"
+  },
+  {
+    "question": "Who is regarded as the father of Nigeria nationalism?",
+    "options": ["Obafemi Awolowo", "Ahmadu Bello", "Nnamdi Azikiwe", "Herbert Macaulay"],
+    "Opname": "q30",
+    "OpId": "thirty",
+    "answer": "Herbert Macaulay"
+  },
+  {
+    "question": "What is 9 × 9?",
+    "options": ["81", "72", "99", "90"],
+    "Opname": "q31",
+    "OpId": "thirtyone",
+    "answer": "81"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "Opname": "q32",
+    "OpId": "thirtytwo",
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which figure of speech is 'The sun smiled at us'?",
+    "options": ["Metaphor", "Personification", "Simile", "Hyperbole"],
+    "Opname": "q33",
+    "OpId": "thirtythree",
+    "answer": "Personification"
+  },
+  {
+    "question": "Which Nigerian city is known as the 'Tin City'?",
+    "options": ["Kano", "Jos", "Ibadan", "Abeokuta"],
+    "Opname": "q34",
+    "OpId": "thirtyfour",
+    "answer": "Jos"
+  },
+  {
+    "question": "What is the result of 50 - 17?",
+    "options": ["32", "33", "34", "35"],
+    "Opname": "q35",
+    "OpId": "thirtyfive",
+    "answer": "33"
+  },
+  {
+    "question": "What is the past tense of 'Run'?",
+    "options": ["Ran", "Running", "Runs", "Runned"],
+    "Opname": "q36",
+    "OpId": "thirtysix",
+    "answer": "Ran"
+  },
+  {
+    "question": "Which of these is a civic responsibility?",
+    "options": ["Voting", "Sleeping", "Traveling", "Eating"],
+    "Opname": "q37",
+    "OpId": "thirtyseven",
+    "answer": "Voting"
+  },
+  {
+    "question": "What is 200 ÷ 50?",
+    "options": ["2", "3", "4", "5"],
+    "Opname": "q38",
+    "OpId": "thirtyeight",
+    "answer": "4"
+  },
+  {
+    "question": "Who was the first African Nobel laureate in Literature?",
+    "options": ["Chinua Achebe", "Ngugi wa Thiong’o", "Wole Soyinka", "Nadine Gordimer"],
+    "Opname": "q39",
+    "OpId": "thirtynine",
+    "answer": "Wole Soyinka"
+  },
+  {
+    "question": "Which of these is an adjective?",
+    "options": ["Run", "Beautiful", "Quickly", "Sing"],
+    "Opname": "q40",
+    "OpId": "forty",
+    "answer": "Beautiful"
+  },
+  {
+    "question": "Which Nigerian symbol represents authority of government?",
+    "options": ["Flag", "Mace", "Anthem", "Coat of Arms"],
+    "Opname": "q41",
+    "OpId": "fortyone",
+    "answer": "Mace"
+  },
+  {
+    "question": "What is 2³?",
+    "options": ["4", "6", "8", "9"],
+    "Opname": "q42",
+    "OpId": "fortytwo",
+    "answer": "8"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located?",
+    "options": ["Asia", "Africa", "Australia", "South America"],
+    "Opname": "q43",
+    "OpId": "fortythree",
+    "answer": "Africa"
+  },
+  {
+    "question": "What is the opposite of 'Fast'?",
+    "options": ["Quick", "Slow", "Speed", "Rapid"],
+    "Opname": "q44",
+    "OpId": "fortyfour",
+    "answer": "Slow"
+  },
+  {
+    "question": "Who designed the Nigerian flag?",
+    "options": ["Taiwo Akinkunmi", "Herbert Macaulay", "Ahmadu Bello", "Flora Shaw"],
+    "Opname": "q45",
+    "OpId": "fortyfive",
+    "answer": "Taiwo Akinkunmi"
+  },
+  {
+    "question": "What is 10% of 200?",
+    "options": ["10", "20", "25", "30"],
+    "Opname": "q46",
+    "OpId": "fortysix",
+    "answer": "20"
+  },
+  {
+    "question": "Which organ in the human body pumps blood?",
+    "options": ["Lungs", "Heart", "Kidney", "Liver"],
+    "Opname": "q47",
+    "OpId": "fortyseven",
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the plural of 'Goose'?",
+    "options": ["Gooses", "Geese", "Goosen", "Goos"],
+    "Opname": "q48",
+    "OpId": "fortyeight",
+    "answer": "Geese"
+  },
+  {
+    "question": "What is the highest court in Nigeria?",
+    "options": ["Appeal Court", "High Court", "Supreme Court", "Sharia Court"],
+    "Opname": "q49",
+    "OpId": "fortynine",
+    "answer": "Supreme Court"
+  },
+  {
+    "question": "Simplify: 20 + (6 × 2)",
+    "options": ["30", "32", "36", "40"],
+    "Opname": "q50",
+    "OpId": "fifty",
+    "answer": "32"
+  }
+]
