@@ -174,7 +174,7 @@ document.getElementById("back").addEventListener("click",back);
 /* setting time code */
 
 
-Seconds = (0.2*60);
+Seconds = (12*60);
 let min;
 let sec;
 
